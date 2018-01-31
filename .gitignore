@@ -1,0 +1,8 @@
+
+*.sln
+
+*.suo
+
+Meshless v4/Meshless v4/Debug/
+
+*.vfproj
